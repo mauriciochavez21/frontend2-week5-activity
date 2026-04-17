@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-17)
+
+
+### Features
+
+* Actualizacion ([#1](https://github.com/mauriciochavez21/frontend2-week5-activity/issues/1)) ([00aefc6](https://github.com/mauriciochavez21/frontend2-week5-activity/commit/00aefc6d077fb4c9fdd210243801fe4396a0eb49))
+
 # 1.0.0 (2026-04-12)
 
 
